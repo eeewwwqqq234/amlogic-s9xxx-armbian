@@ -67,7 +67,7 @@ auto_kernel="true"
 # Set whether to apply custom kernel patches, options: [ true / false ]
 auto_patch="false"
 # Set custom signature for the kernel
-custom_name="-ophub"
+custom_name="-Aml"
 # Set the kernel compile object, options: [ dtbs / all ]
 package_list="all"
 
